@@ -10,3 +10,10 @@ The core difference between my beliefs and what I see as the [Social Justice Act
 
 
 - Keeping score between equally powerless groups of people (arbitrarily defined even) is a horrendous way to go about solving the problems represented by the score.  
+
+
+[Really incredible point from PSA Sitch](https://youtu.be/Fyu5hj3Ddxc?t=58m2s)
+
+- The same deduction that used to understand why absitence only education doesn't work applies to why censoring bad idea/opinons/people/data doesn't work.
+   - It makes those things more attractive (forbidden fruit)
+   - People will engage with some form of it anyway (recognition bias/familial difference bias/sex) and if they aren't taught how to properly engage with and analyze what they experience they could potentially come to very ignorant and irrational conclusions.
