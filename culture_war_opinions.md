@@ -1,6 +1,6 @@
 ### Culture War Opinions
 
-The core difference between my beliefs and what I see as the [Social Justice Activist / Advocate, Progressive, (What Jordan Peterson describes as Neo-Marxist / Progressive)] belief's is: In our actualized societal visions should Race/Sex/Gender (i.e. dimensions of identity that are essentially immutable and random-by-the-happenstance of our birth) be a consideration when evaluating people for they're place in an organization (societal/institutional) in addition to competency or not?
+The core difference between my beliefs and what I see as the [Social Justice Activist / Advocate, Progressive, (What Jordan Peterson describes as Neo-Marxist / Progressive)] belief's is: In our actualized societal visions should Race/Sex/Gender (i.e. dimensions of identity that are essentially immutable and random-by-the-happenstance of our birth) be a consideration when evaluating people for their place in an organization (societal/institutional) in addition to competency or not?
 
    - Break Down **not** position.
    - Break Down **do** position
@@ -17,3 +17,5 @@ The core difference between my beliefs and what I see as the [Social Justice Act
 - The same deduction that used to understand why absitence only education doesn't work applies to why censoring bad idea/opinons/people/data doesn't work.
    - It makes those things more attractive (forbidden fruit)
    - People will engage with some form of it anyway (recognition bias/familial difference bias/sex) and if they aren't taught how to properly engage with and analyze what they experience they could potentially come to very ignorant and irrational conclusions.
+
+
