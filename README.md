@@ -10,3 +10,6 @@ the Redux architecture centers around a strict unidirectional data flow. All dat
 [Informative Redux Blog Post](https://hackernoon.com/lessons-learned-implementing-redux-on-android-cba1bed40c41)
 
 [General App State Management Description](https://android.jlelse.eu/redux-rxkotlin-rxswift-awesome-native-mobile-apps-introduction-part-1-4ea7fa3be319)
+
+[Neat hack writeup](https://blog.coinbase.com/responding-to-firefox-0-days-in-the-wild-d9c85a57f15b)
+[Neat exploit writeup](http://www.phrack.org/papers/jit_exploitation.html)
